@@ -1,1 +1,1 @@
-# spring-boot-aws-semaphore
+spring-boot-aws-semaphore
