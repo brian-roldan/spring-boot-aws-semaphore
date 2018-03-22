@@ -10,5 +10,10 @@ public class SampleSample {
 	public String helloWorld() {
 		return "{Holla:at Yo boi}";
 	}
+
+	@GetMapping("/holler")
+	public String hollerWorld() {
+		return "{Holler:Baller}";
+	}
 	
 }
